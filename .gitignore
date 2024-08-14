@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+.vs_code/
+*.pyc
+/media/
+Testing/
+Design Files
+.dockerignore
+.sandbox/
+db.sqlite3
+__pycache__/
+postgres_data/
+/.env.prod
+/.env.db.prod
